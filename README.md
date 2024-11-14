@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+-📝I'm currently studying at IIT Guwahati
+
+-I'm interested to learn about new things and applying them
+
+
 <!--
 **Shashank-Tripathi-07/Shashank-Tripathi-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
