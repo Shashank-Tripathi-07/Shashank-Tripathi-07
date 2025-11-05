@@ -166,11 +166,11 @@ An **AI initiative** revolutionizing human productivity through intelligent auto
 <div align="center">
 
 <a href="https://github.com/Shashank-Tripathi-07/Turing-An_AI_Integrated_Real-time_Assistant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=<Shashank-Tripathi-07>&repo=Turing-An_AI_Integrated_Real-time_Assistant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashank-Tripathi-07&repo=Turing-An_AI_Integrated_Real-time_Assistant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" />
 </a>
 
 <a href="https://github.com/ShivtejG236/Turing-Web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=<ShivtejG236>&repo=Turing-Web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShivtejG236&repo=Turing-Web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" />
 </a>
 
 </div>
@@ -183,42 +183,42 @@ An **AI initiative** revolutionizing human productivity through intelligent auto
 
 <!-- Tokyo Night Theme (Default) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=<Shashank-Tripathi-07>&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true&include_all_commits=true" width="49%">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=<Shashank-Tripathi-07>&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=3B82F6&icon_color=3B82F6&text_color=2F3640&count_private=true&include_all_commits=true" width="49%">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=<Shashank-Tripathi-07>&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true&include_all_commits=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Shashank-Tripathi-07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true&include_all_commits=true" width="49%">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Shashank-Tripathi-07&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=3B82F6&icon_color=3B82F6&text_color=2F3640&count_private=true&include_all_commits=true" width="49%">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shashank-Tripathi-07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true&include_all_commits=true" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=<Shashank-Tripathi-07>&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9" width="49%">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=<Shashank-Tripathi-07>&theme=default&hide_border=true&background=FFFFFF&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=2F3640&currStreakNum=2F3640&sideLabels=2F3640" width="49%">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=<Shashank-Tripathi-07>&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Shashank-Tripathi-07&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9" width="49%">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Shashank-Tripathi-07&theme=default&hide_border=true&background=FFFFFF&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=2F3640&currStreakNum=2F3640&sideLabels=2F3640" width="49%">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank-Tripathi-07&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=<Shashank-Tripathi-07>&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" width="49%">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=<Shashank-Tripathi-07>&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=3B82F6&text_color=2F3640&langs_count=8" width="49%">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<Shashank-Tripathi-07>&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-Tripathi-07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" width="49%">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-Tripathi-07&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=3B82F6&text_color=2F3640&langs_count=8" width="49%">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-Tripathi-07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=<Shashank-Tripathi-07>&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9" width="49%">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=<Shashank-Tripathi-07>&theme=github-light&hide_border=true&bg_color=FFFFFF&color=3B82F6&line=3B82F6&point=2F3640" width="49%">
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=<Shashank-Tripathi-07>&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Shashank-Tripathi-07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9" width="49%">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Shashank-Tripathi-07&theme=github-light&hide_border=true&bg_color=FFFFFF&color=3B82F6&line=3B82F6&point=2F3640" width="49%">
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank-Tripathi-07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9" />
 </picture>
 
-### 🎨 Alternative Themes
+### 🎨 View in Alternative Themes
 
 <details>
 <summary><b>🌙 Noir Theme</b></summary>
 <br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=<Shashank-Tripathi-07>&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=808080&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shashank-Tripathi-07&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=808080&count_private=true&include_all_commits=true" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=<Shashank-Tripathi-07>&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=808080&currStreakNum=808080&sideLabels=808080" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank-Tripathi-07&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=808080&currStreakNum=808080&sideLabels=808080" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<Shashank-Tripathi-07>&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=808080&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-Tripathi-07&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=808080&langs_count=8" />
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=<Shashank-Tripathi-07>&theme=high-contrast&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=808080" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank-Tripathi-07&theme=high-contrast&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=808080" />
 
 </details>
 
@@ -226,13 +226,13 @@ An **AI initiative** revolutionizing human productivity through intelligent auto
 <summary><b>🔵 Classic Blue Theme</b></summary>
 <br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=<Shashank-Tripathi-07>&show_icons=true&theme=blue-green&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shashank-Tripathi-07&show_icons=true&theme=blue-green&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=<Shashank-Tripathi-07>&theme=blue-green&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank-Tripathi-07&theme=blue-green&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<Shashank-Tripathi-07>&layout=compact&theme=blue-green&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-Tripathi-07&layout=compact&theme=blue-green&hide_border=true&langs_count=8" />
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=<Shashank-Tripathi-07>&theme=react&hide_border=true" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank-Tripathi-07&theme=react&hide_border=true" />
 
 </details>
 
@@ -245,9 +245,9 @@ An **AI initiative** revolutionizing human productivity through intelligent auto
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=<Shashank-Tripathi-07>&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=<Shashank-Tripathi-07>&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15">
-  <img src="https://github-profile-trophy.vercel.app/?username=<Shashank-Tripathi-07>&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Shashank-Tripathi-07&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Shashank-Tripathi-07&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shashank-Tripathi-07&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </picture>
 
 </div>
@@ -259,9 +259,9 @@ An **AI initiative** revolutionizing human productivity through intelligent auto
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=<Shashank-Tripathi-07>&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=<Shashank-Tripathi-07>&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true&bg_color=FFFFFF&title_color=3B82F6&text_color=2F3640">
-  <img src="https://github-contributor-stats.vercel.app/api?username=<Shashank-Tripathi-07>&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=Shashank-Tripathi-07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=Shashank-Tripathi-07&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true&bg_color=FFFFFF&title_color=3B82F6&text_color=2F3640">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Shashank-Tripathi-07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" />
 </picture>
 
 </div>
@@ -272,7 +272,7 @@ An **AI initiative** revolutionizing human productivity through intelligent auto
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/<Shashank-Tripathi-07>/<Shashank-Tripathi-07>/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Shashank-Tripathi-07/Shashank-Tripathi-07/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -293,7 +293,7 @@ An **AI initiative** revolutionizing human productivity through intelligent auto
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rocky0714)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/<rockyt07>)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/rockyt07)
 
 </div>
 
@@ -305,7 +305,7 @@ An **AI initiative** revolutionizing human productivity through intelligent auto
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-![Profile Views](https://komarev.com/ghpvc/?username=<Shashank-Tripathi-07>&color=3B82F6&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Shashank-Tripathi-07&color=3B82F6&style=for-the-badge&label=Profile+Views)
 
 **⭐ From [Rocky](https://github.com/<Shashank-Tripathi-07>) with 💙**
 
