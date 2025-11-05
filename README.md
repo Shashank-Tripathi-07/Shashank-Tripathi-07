@@ -240,15 +240,18 @@ An **AI initiative** revolutionizing human productivity through intelligent auto
 
 ---
 
-
-
 ## 🎖️ GitHub Achievements
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shashank-Tripathi-07&theme=tokyonight)
+<a href="https://github.com/Shashank-Tripathi-07?achievement=pull-shark"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120px"></a>
+<a href="https://github.com/Shashank-Tripathi-07?achievement=quickdraw"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120px"></a>
+<a href="https://github.com/Shashank-Tripathi-07?achievement=pair-extraordinaire"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="120px"></a>
+<a href="https://github.com/Shashank-Tripathi-07?achievement=starstruck"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="120px"></a>
+<a href="https://github.com/Shashank-Tripathi-07?achievement=galaxy-brain"><img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="120px"></a>
 
 </div>
+
 ---
 
 ## 📈 Contribution Breakdown
