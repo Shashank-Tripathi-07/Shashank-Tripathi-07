@@ -306,6 +306,8 @@ An **AI initiative** revolutionizing human productivity through intelligent auto
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shashank-Tripathi-07&color=3B82F6&style=for-the-badge&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/Shashank-Tripathi-07?style=for-the-badge&logo=github&label=Followers)
+![GitHub Stars](https://img.shields.io/github/stars/Shashank-Tripathi-07?style=for-the-badge&logo=github&label=Total+Stars)
 
 **⭐ From [Rocky](https://github.com/<Shashank-Tripathi-07>) with 💙**
 
