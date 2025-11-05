@@ -5,13 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=DS+%26+AI+Student+%F0%9F%A4%96;Founder+%26+Maintainer+of+Turing+Project+%F0%9F%9A%80;Open-Source+Contributor+%F0%9F%8C%9F;Lifelong+Learner+%26+Problem+Solver+%F0%9F%92%A1;Building+the+Future%2C+One+Commit+at+a+Time+%E2%9C%A8)](https://git.io/typing-svg)
 
 
-### 🎨 Choose Your Theme
-[![Light Mode](https://img.shields.io/badge/Light_Mode-☀️-FFD700?style=for-the-badge)](#gh-light-mode-only)
-[![Dark Mode](https://img.shields.io/badge/Dark_Mode-🌙-1E1E1E?style=for-the-badge)](#gh-dark-mode-only)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-[![GitHub Developer Program](https://img.shields.io/badge/GitHub-Developer_Program-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![GitHub Developer Program](https://img.shields.io/badge/GitHub-Developer_Program_Member-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Super_Contributor-FF6B6B?style=for-the-badge&logo=hacktoberfest&logoColor=white)](https://hacktoberfest.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Top_19%25-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
 [![Inter IIT](https://img.shields.io/badge/Inter_IIT-Rank_%231-FFD700?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTUuMDkgOC4yNkwyMiA5LjI3TDE3IDEzLjE0TDE4LjE4IDIyTDEyIDE4LjI3TDUuODIgMjJMNyAxMy4xNEwyIDkuMjdMOC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=black)](https://interiit.tech)
