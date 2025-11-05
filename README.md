@@ -246,12 +246,9 @@ An **AI initiative** revolutionizing human productivity through intelligent auto
 
 <div align="center">
 
-<a href="https://github.com/Shashank-Tripathi-07">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shashank-Tripathi-07&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-</a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shashank-Tripathi-07&theme=tokyonight)
 
 </div>
-
 ---
 
 ## 📈 Contribution Breakdown
