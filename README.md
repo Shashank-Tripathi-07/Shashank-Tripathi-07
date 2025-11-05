@@ -240,16 +240,15 @@ An **AI initiative** revolutionizing human productivity through intelligent auto
 
 ---
 
+
+
 ## 🎖️ GitHub Achievements
 
 <div align="center">
 
-[![Pull Shark](https://github-profile-achievements.vercel.app/api/badge?username=Shashank-Tripathi-07&achievement=pull-shark)](https://github.com/Shashank-Tripathi-07)
-[![YOLO](https://github-profile-achievements.vercel.app/api/badge?username=Shashank-Tripathi-07&achievement=yolo)](https://github.com/Shashank-Tripathi-07)
-[![Quickdraw](https://github-profile-achievements.vercel.app/api/badge?username=Shashank-Tripathi-07&achievement=quickdraw)](https://github.com/Shashank-Tripathi-07)
-[![Pair Extraordinaire](https://github-profile-achievements.vercel.app/api/badge?username=Shashank-Tripathi-07&achievement=pair-extraordinaire)](https://github.com/Shashank-Tripathi-07)
-[![Galaxy Brain](https://github-profile-achievements.vercel.app/api/badge?username=Shashank-Tripathi-07&achievement=galaxy-brain)](https://github.com/Shashank-Tripathi-07)
-[![Starstruck](https://github-profile-achievements.vercel.app/api/badge?username=Shashank-Tripathi-07&achievement=starstruck)](https://github.com/Shashank-Tripathi-07)
+<a href="https://github.com/Shashank-Tripathi-07">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shashank-Tripathi-07&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+</a>
 
 </div>
 
