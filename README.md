@@ -174,6 +174,17 @@ An **AI initiative** revolutionizing human productivity through intelligent auto
 
 ---
 
+## Hacktoberfest Badges : 
+
+[![An image of @shashanktripathi07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shashanktripathi07)](https://holopin.io/@shashanktripathi07)
+
+
+
+
+
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
