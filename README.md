@@ -28,7 +28,7 @@ I'm a **Data Science & AI student**, **systems engineer**, and dedicated to expl
 - 🌱 Deep diving into **AI for Finance**, **MLOps**, and **Intersection of AI & humanity**
 - 🧠 Exploring **Data Science**, **Machine Learning**, and **automation**
 - 💡 Love building **meaningful projects** and **solving real-world problems**
-- 🤝 Mentored **50+ juniors** in leadership sessions
+- 🤝 Mentored **100+ juniors** in leadership sessions
 - 🌟 Active **open-source contributor** and community collaborator
 
 <br clear="right"/>
