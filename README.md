@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-[![Kaggle Master](https://img.shields.io/badge/Kaggle-Master-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
+[![Kaggle Grandmaster](https://img.shields.io/badge/Kaggle-Grandmaster-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
 [![GitHub Developer Program](https://img.shields.io/badge/GitHub-Developer_Program_Member-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Super_Contributor-FF6B6B?style=for-the-badge&logo=hacktoberfest&logoColor=white)](https://hacktoberfest.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Top_19%25-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
