@@ -9,7 +9,7 @@
 [![Kaggle Grandmaster](https://img.shields.io/badge/Kaggle-Grandmaster-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
 [![GitHub Developer Program](https://img.shields.io/badge/GitHub-Developer_Program_Member-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Super_Contributor-FF6B6B?style=for-the-badge&logo=hacktoberfest&logoColor=white)](https://hacktoberfest.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Top_19%25-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Top_1%25-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
 [![Inter IIT](https://img.shields.io/badge/Inter_IIT-Rank_%231-FFD700?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTUuMDkgOC4yNkwyMiA5LjI3TDE3IDEzLjE0TDE4LjE4IDIyTDEyIDE4LjI3TDUuODIgMjJMNyAxMy4xNEwyIDkuMjdMOC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=black)](https://interiit.tech)
 
 </div>
@@ -20,13 +20,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm a **Data Science & AI student**, **systems engineer**, and dedicated to exploring the frontiers of **AI/ML** and **Software Development**. 
+I'm a **Data Science & AI student** dedicated to exploring and improving the frontiers of **AI/ML** and **Software Development** and to apply these frontiers to expand the limits of what humanity can do.  
 
 - 🔭 Currently building **Turing** - an AI initiative for human productivity
 - 🌱 Deep diving into **AI for Finance**, **MLOps**, and **Intersection of AI & humanity**
 - 🧠 Exploring **Data Science**, **Machine Learning**, and **automation**
 - 💡 Love building **meaningful projects** and **solving real-world problems**
-- 🤝 Mentored **100+ juniors** in leadership sessions
+- 🤝 Mentored **100+ juniors** in mentorship sessions
 - 🌟 Active **open-source contributor** and community collaborator
 
 <br clear="right"/>
@@ -139,7 +139,7 @@ I'm a **Data Science & AI student**, **systems engineer**, and dedicated to expl
 
 <div align="center">
 
-[![Turing Project](https://img.shields.io/badge/Turing_Project-Founder_&_Maintainer-6366F1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3TDEyIDEyTDIyIDdMMTIgMloiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjxwYXRoIGQ9Ik0yIDEyTDEyIDE3TDIyIDEyIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNMiAxN0wxMiAyMkwyMiAxNyIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+Cg==)](https://github.com/<your-username>/Turing-An_AI_Integrated_Real-time_Assistant)
+[![Turing Project](https://img.shields.io/badge/Turing_Project-Founder_&_Maintainer-6366F1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3TDEyIDEyTDIyIDdMMTIgMloiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjxwYXRoIGQ9Ik0yIDEyTDEyIDE3TDIyIDEyIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNMiAxN0wxMiAyMkwyMiAxNyIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+Cg==)](https://github.com/Shashank-Tripathi-07/Turing-An_AI_Integrated_Real-time_Assistant)
 
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
