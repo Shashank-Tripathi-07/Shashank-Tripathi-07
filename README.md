@@ -39,7 +39,7 @@ I'm a **Data Science & AI student** dedicated to exploring and improving the fro
 
 | 🎯 Achievement | 🏅 Details |
 |:--------------|:-----------|
-| **🏆 Kaggle Master** | Master Tier Achievement - Top 1% Global |
+| **🏆 Kaggle Grandmaster** | Grandmaster Tier Achievement - Top 1% Global |
 | **🌟 Hacktoberfest 2024** | Super Contributor - 8 Merged PRs |
 | **🥇 Inter-IIT Tech Meet** | Rank #1 - Memory Category, Rank #40 in XP category |
 | **📊 Kaggle Competitions** | Top 19% Globally (656th / 3457) |
