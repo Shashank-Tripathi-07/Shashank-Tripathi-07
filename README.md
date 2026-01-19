@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Rocky 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=DS+%26+AI+Student+%F0%9F%A4%96;Kaggle+Master+%7C+Top+1%25+Global+%F0%9F%8F%86;Founder+%26+Maintainer+of+Turing+Project+%F0%9F%9A%80;Open-Source+Contributor+%F0%9F%8C%9F;Lifelong+Learner+%26+Problem+Solver+%F0%9F%92%A1;Building+the+Future%2C+One+Commit+at+a+Time+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=DS+%26+AI+Student+%F0%9F%A4%96;Kaggle+Grandmaster+%7C+Top+1%25+Global+%F0%9F%8F%86;Founder+%26+Maintainer+of+Turing+Project+%F0%9F%9A%80;Open-Source+Contributor+%F0%9F%8C%9F;Lifelong+Learner+%26+Problem+Solver+%F0%9F%92%A1;Building+the+Future%2C+One+Commit+at+a+Time+%E2%9C%A8)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
