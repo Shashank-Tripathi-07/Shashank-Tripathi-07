@@ -285,6 +285,12 @@ An **AI initiative** revolutionizing human productivity through intelligent auto
 
 </div>
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-Tripathi-07&theme=onedark&show_icons=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 ---
 
 ## 💭 Random Dev Quote
