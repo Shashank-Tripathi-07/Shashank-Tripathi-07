@@ -1,6 +1,6 @@
 # Rocky 
 
-> Data Science & AI Student | Kaggle Grandmaster | Open Source Contributor
+> Data Science & AI Student | Kaggle Grandmaster | 
 
 Building the future of AI.
 
