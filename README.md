@@ -1,68 +1,215 @@
-# Rocky 
+# Shashank Tripathi
 
-> Data Science & AI Student | Kaggle Grandmaster | 
+building ML systems, optimizing GPU workloads, and experimenting across AI infrastructure, performance engineering, and scalable software systems.
 
-Building the future of AI.
+currently focused on Triton/CUDA optimization, distributed training systems, efficient inference, and systems-aware deep learning.
 
 ---
 
 ## About
 
-I'm passionate about exploring the frontiers of **AI/ML** and **Software Development** to expand the limits of what humanity can achieve.
+I work across the intersection of:
 
-Currently building [**Turing**](https://github.com/Shashank-Tripathi-07/Turing-An_AI_Integrated_Real-time_Assistant) — an AI initiative revolutionizing human productivity through intelligent automation and voice-powered assistants.
+* ML systems
+* GPU programming
+* AI infrastructure
+* performance engineering
+* scalable backend systems
+* full-stack product development
+* AI consulting + technical strategy
 
-**Focus Areas:** AI for Finance • MLOps • Data Science • Automation
+Alongside engineering-focused work, I’ve collaborated with startups and product teams on building practical, cost-efficient AI and software solutions.
+
+My approach combines:
+
+* deep technical understanding
+* systems-level optimization
+* product thinking
+* business-aware engineering decisions
+
+I enjoy bridging the gap between technical and non-technical teams — translating complex systems into scalable, usable, and commercially practical solutions.
+
+This includes helping teams:
+
+```txt
+- optimize infrastructure costs
+- choose efficient AI/ML architectures
+- scale products pragmatically
+- improve engineering workflows
+- ship faster without sacrificing quality
+- balance performance with maintainability
+```
+
+I’m comfortable working across different environments:
+
+* early-stage startups
+* hackathon teams
+* fast-moving product groups
+* research-oriented engineering teams
+* enterprise-scale workflows
+
+and across vastly different levels of technical complexity.
+
+That can range from:
+
+```txt
+- building lightweight automations for small businesses
+- designing AI agents for operational workflows
+- creating internal productivity tools
+- shipping full-stack MVPs quickly
+- improving backend scalability
+- optimizing cloud/resource usage
+- designing efficient ML pipelines
+- tuning GPU kernels for high-throughput inference
+- optimizing Triton/CUDA workloads for LLM systems
+- experimenting with systems-level performance engineering
+```
+
+I enjoy solving both ends of the spectrum:
+practical business problems that need clean execution, and deeply technical infrastructure problems that require low-level optimization and systems thinking.
+
+My work ranges from low-level kernel optimization and distributed training experiments to building real-world applications, developer tools, and AI-powered products.
+
+I enjoy understanding systems from the inside out — memory movement, scheduling, throughput, compiler behavior, kernel execution, and the engineering tradeoffs behind modern AI workloads.
+
+This GitHub is essentially an active engineering workspace where I explore:
+
+```txt
+- GPU kernels + Triton/CUDA
+- efficient deep learning systems
+- training + inference infrastructure
+- compiler-aware optimization
+- AI-powered products
+- distributed systems
+- developer tooling
+- experimental ML infrastructure
+```
 
 ---
 
-## Achievements
+## selected repositories
 
-- 🏆 **Kaggle Grandmaster** — Top 1% Global
-- 🥇 **Inter-IIT Tech Meet** — Rank #1 (Memory Category)
-- 🌟 **Hacktoberfest 2024** — Super Contributor (8 Merged PRs)
-- 📊 **Kaggle Competitions** — Top 19% Globally
-- 💻 **GitHub Developer Program** — Member
-- 👥 **Community Impact** — Mentored 100+ developers
+### TinyTorch [Built in Harvard's CS249r repository] 
 
----
+A lightweight deep learning framework built to understand tensor systems, autograd internals, and the foundations behind modern deep learning libraries.
 
-## Languages & Technologies
+focus areas:
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-**Databases:** MongoDB, MySQL, SQLite, postgreSQL 
-**Tools:** Git • GitHub Actions • Anaconda 
+* tensor abstractions
+* automatic differentiation
+* computational graphs
+* backend execution mechanics
+* educational systems design
 
 ---
 
-## Featured Projects
+### Triton + CUDA Optimization [Current Focus]
 
-### [Turing AI Assistant](https://github.com/Shashank-Tripathi-07/Turing-An_AI_Integrated_Real-time_Assistant)
-AI-powered voice assistant with real-time processing, NLP, and intelligent workflow automation. JARVIS-inspired design with British accent synthesis..
+Collection of kernel optimization experiments focused on maximizing GPU throughput and understanding low-level execution behavior.
+
+includes work around:
+
+* GEMM optimization
+* memory coalescing
+* occupancy tuning
+* shared memory optimization
+* tiling strategies
+* warp-level execution
+* benchmarking + profiling
+
+recent work includes iterative optimization of matrix multiplication kernels achieving extremely high GFLOPS through scheduling and memory-access improvements.
 
 ---
 
-## Connect
+### Turing — AI Integrated Real-Time Assistant [Individual project on Agents and System Automation]
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rocky0714)
-[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Rocky_T07)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/rockyt07)
-[![Website](https://img.shields.io/badge/-Website-58a6ff?style=flat&logo=google-chrome&logoColor=white)](https://shashankt.vercel.app)
+An experimental AI assistant platform exploring real-time interactions, AI tooling, and product-scale system design.
+
+focus areas:
+
+* AI integration
+* real-time workflows
+* product engineering
+* scalable architecture
+* user-focused AI experiences
 
 ---
 
-<div align="center">
+### Hackathon + Product Projects
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shashank-Tripathi-07&color=58a6ff&style=flat)
+A collection of fast-built but ambitious projects exploring:
+
+* AI applications
+* full-stack systems
+* developer tooling
+* automation
+* real-time platforms
+* rapid product iteration
+
+these projects helped shape my approach toward shipping quickly while maintaining strong engineering fundamentals.
+
+---
+
+### ML Systems Experiments
+
+Repositories exploring:
+
+* distributed training
+* TPU/GPU experimentation
+* inference optimization
+* scalable training workflows
+* systems-oriented deep learning
+* infrastructure-aware experimentation
+
+built while experimenting with Kaggle TPUs, large-scale workloads, and efficient AI system design.
+
+---
+
+## Experience
+
+* Kaggle Grandmaster
+* Harvard Edge Computing Lab
+* IIT Guwahati (Class of 2028)
+
+---
+
+## Engineering interests
+
+```txt
+- compiler-aware ML optimization
+- efficient transformer systems
+- GPU kernel engineering
+- distributed AI systems
+- high-throughput inference
+- scalable LLM infrastructure
+- systems-level AI research
+- performance benchmarking
+```
+
+---
+
+## Tech stack
+
+```txt
+languages     → python, c++, cuda, javascript, typescript, c, R, 
+ml/ai         → pytorch, triton, tensorflow, jax
+systems       → cuda, distributed systems, gpu programming, 
+backend       → node.js, express, fastapi, express.js, svelte, sveltekit
+frontend      → react, next.js
+infra         → linux, docker, git, vercel, kubernetes 
+areas         → ML systems, AI infra, performance engineering, AI Engineering, ML Engineering, Frontier Research 
+```
 
 
-</div>
+---
+
+## links
+
+* portfolio → [https://shashankt.vercel.app](https://shashankt.vercel.app)
+* linkedin → [https://linkedin.com/in/rocky0714](https://linkedin.com/in/rocky0714)
+
+---
+
+```txt
+building systems that make AI workloads faster, scalable, and usable in the real world.
+```
