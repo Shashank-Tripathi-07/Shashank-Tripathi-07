@@ -23,7 +23,7 @@ Underneath all of it is the same curiosity: understanding systems from the insid
 
 ---
 
-## Selected repositories
+## Selected works
 
 ### CS249r · Machine Learning Systems (Harvard), Maintainer
 
@@ -35,22 +35,6 @@ Harvard's open-source ML Systems Engineering course repository. I maintain the r
 * **Labs**: 34 browser-based, WASM-exported interactive labs built on MLSys·im.
 
 Maintainer work includes reviewing and merging contributor PRs, root-causing CI failures, fixing silent data-loss and security bugs, and writing contributor-facing system design documentation for the ecosystem.
-
-### Triton + CUDA Optimization
-
-Kernel optimization experiments focused on GPU throughput: GEMM optimization, memory coalescing, occupancy tuning, shared memory optimization, tiling strategies, and warp-level execution, with iterative work on matrix multiplication kernels reaching high GFLOPS through scheduling and memory-access improvements.
-
-### Turing, AI Integrated Real-Time Assistant
-
-An experimental AI assistant platform exploring real-time interactions, AI tooling, and product-scale system design.
-
-### Hackathon + Product Projects
-
-Fast-built AI applications, full-stack systems, developer tooling, and automation. Lightweight automations for small businesses, AI agents for operational workflows, internal productivity tools, full-stack MVPs shipped quickly, this is where I practice shipping fast without giving up engineering fundamentals.
-
-### ML Systems Experiments
-
-Distributed training, TPU/GPU experimentation, inference optimization, and infrastructure-aware experimentation, built while working with Kaggle TPUs and large-scale workloads.
 
 ---
 
